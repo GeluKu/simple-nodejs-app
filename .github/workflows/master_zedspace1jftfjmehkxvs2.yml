@@ -53,4 +53,4 @@ jobs:
           app-name: 'zedspace1jftfjmehkxvs2'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_28724462C3034A7EB3C1EB42F7DE0152 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C91B655D04454D03904CD66A3906CEF0 }}
